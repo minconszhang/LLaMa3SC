@@ -1,0 +1,12 @@
+#python 
+/__pycache__/
+
+# models
+outputs/
+model_awgn/
+model_rayleigh/
+model_min/
+
+# data
+europarl/
+cleaned_data/
